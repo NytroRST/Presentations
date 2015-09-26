@@ -5,7 +5,7 @@ Here is a list of my presentations from different conferences.
 - BOS Romania - Malware workshop.pptx 
 - Defcamp 2011 - PE File Format.pptx 
 - Defcamp 2012 - How does a 0day work.pptx 
-- Defcamp_2013 - SSL Ripper.pptx 
+- Defcamp 2013 - SSL Ripper.pptx 
 - Defcon 23 - NetRipper - Smart traffic sniffing.pptx 
 - Hacknet - Deep dive into PHP Object Injection.pptx 
 - OWASP Romania - Shellcode development.pptx 
