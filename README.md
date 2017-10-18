@@ -12,3 +12,4 @@ Here is a list of my presentations from different conferences.
 - RoCyberCon - PHP OOP.pptx 
 - Softbinator Talks - How hackers steal credit cards.pptx 
 - University of Bucharest - Security of web applications.pptx 
+- OWASP Romania 2017 - Less Known Web Application Vulnerabilities 
