@@ -12,6 +12,7 @@ Here is a list of my presentations from different conferences.
 - RoCyberCon - PHP OOP.pptx 
 - Softbinator Talks - How hackers steal credit cards.pptx 
 - University of Bucharest - Security of web applications.pptx 
+- Defcamp 2016 - Windows shellcodes, to be continued
 - OWASP Romania 2017 - Less Known Web Application Vulnerabilities 
 - OWASP Bucharest 2018 - Less Known Web Application Vulnerabilities 
 - BSides Bucharest 2018 - NetRipper
